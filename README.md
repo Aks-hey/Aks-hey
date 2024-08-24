@@ -1,4 +1,5 @@
 # Hi there, I'm Akshay Kumar Dharmasagar! 👋
+![Akshay's Banner](https://github.com/Aks-hey/Aks-hey/blob/main/github-banner.png)
 Welcome to my GitHub profile! I'm passionate about turning raw data into meaningful insights. With a strong background in data analysis, I love exploring new ways to visualize and interpret data using SQL, Power BI, and Python.
 
 ## 🚀 About Me
