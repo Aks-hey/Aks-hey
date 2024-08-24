@@ -1,24 +1,39 @@
-<h1 align="center">Hi 👋, I'm Akshay Kumar Dharmasagar</h1>
-<h3 align="center">A Data Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/304485/screenshots/3301972/animation_dribbble.gif">
+# Hi there, I'm Akshay Kumar Dharmasagar! 👋
+Welcome to my GitHub profile! I'm passionate about turning raw data into meaningful insights. With a strong background in data analysis, I love exploring new ways to visualize and interpret data using SQL, Power BI, and Python.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aks-hey&label=Profile%20views&color=0e75b6&style=flat" alt="aks-hey" /> </p>
+## 🚀 About Me
 
-- 💬 Ask me about **PowerBI, Python, SQL**
+- 🎓 **Bachelor of Engineering** in Information Technology from St. Martin’s Engineering College, Hyderabad.
+  
+- 💼 **Quality Analyst and Data Analyst** experience at Amazon Development Center, Hyderabad, India.
+  
+- 📊 Enthusiast in **Data Analysis** with hands-on experience in:
+  - **SQL**: Crafting complex queries to extract actionable insights.
+  - **Python**: Using libraries like Pandas, Numpy, and Matplotlib for data manipulation and visualization.
+  - **Power BI**: Building interactive dashboards and reports for data storytelling.
 
-- 📫 How to reach me **akshaykumar.dharmasagar@gmail.com**
+## 📫 How to reach me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshay-dharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-dharma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dharmasagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharmasagar" height="30" width="40" /></a>
-</p>
+- **LinkedIn**: [Akshay Kumar Dharmasagar](https://www.linkedin.com/in/akshay-dharma/)
+- **Email**: akshaykumar.dharamsagar75@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## ⚡ Fun Facts
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aks-hey&show_icons=true&locale=en&layout=compact" alt="aks-hey" /></p>
+- I love to dive deep into data sets and uncover hidden patterns.
+- When I'm not working, I'll be playing Tabla and Harmonium !!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aks-hey&show_icons=true&locale=en" alt="aks-hey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aks-hey&" alt="aks-hey" /></p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aks-hey&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aks-hey&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aks-hey&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aks-hey&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aks-hey&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
